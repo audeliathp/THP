@@ -23,6 +23,7 @@
   </body>
 
 
+
 <!DOCTYPE html>
 <html>
     <header>
@@ -33,8 +34,9 @@
      <div class="buttons">
       <button class="button" type="button">Connexion</button>
      </div>
-      
+      </header>   
     <body>
+    <center>
           <div class="logo">
       <img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
             
@@ -46,8 +48,22 @@
       <button class="button" type="button">Recherche</button>
       <button class="button" type="button">J'ai de la chance</button>
      </div>
+            </center>          
   </body>
       
+<footer>
+    <div id="footernavleft">
+      <div class="infoconsommateurs">Info consommateurs </div>
+      <div class="confidentialité">Confidentialité</div>
+      <div class="conditions">Conditions</div>
+      <div class="parametres">Paramètres</div>
+</div>
+   <div id="footernavright">
+      <div class="publicite">Publicité</div>
+      <div class="entreprise">Entreprise</div>
+      <div class="apropos">A propos</div>
+      <div class="recherchegoogle">Comment fonctionne la recerche Google</div>
       
-    
+   
+      
       
